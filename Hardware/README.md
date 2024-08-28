@@ -26,4 +26,8 @@ With connectors on both sides of the board and an exposed PCB I wanted to protec
 The case is designed in two parts, the top is intended to protect the components while not muting the buzzer and allowing the sensors to get fresh air. The bottom of the case brings the battery connector flush to the mounting surface and protects the components on the bottom.
 
 | Top | Bottom |
+| --- | ------ |
 | ![Top Enclosure](https://github.com/colinhalebrown/Meadowlark-Mini/blob/main/Documentation/images/CaseTop_v6.png) | ![Bottom Enclosure](https://github.com/colinhalebrown/Meadowlark-Mini/blob/main/Documentation/images/CaseBottom_v6.png) |
+
+
+![PCB on its side](https://github.com/colinhalebrown/Meadowlark-Mini/blob/main/Documentation/images/IMG_4572.jpeg)
